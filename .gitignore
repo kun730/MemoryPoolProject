@@ -35,3 +35,7 @@ Makefile
 
 # Test outputs
 *.log
+
+# docker related
+Dockerfile.local
+docker-compose.local.yml

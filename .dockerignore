@@ -1,0 +1,12 @@
+*/build/
+*/CMakeFiles/
+*.o
+*.a
+*.so
+.git
+.gitignore
+README.md
+docker-compose.yml
+Dockerfile
+.vscode
+.DS_Store
